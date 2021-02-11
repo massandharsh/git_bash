@@ -5,7 +5,7 @@ using namespace std;
 int solve(vector<int> &arr, int b) {
     //Picking is possible from any direction begin or end 
     
-    int start = 0; //start
+    int start = 0; //start2
     int end = arr.size() - 1;
     int numElements = b;
     int n = end;

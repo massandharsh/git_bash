@@ -6,7 +6,7 @@ int solve(vector<int> &arr, int b) {
     //Picking is possible from any direction begin or end 
     
     int start = 0; //start3
-    int end1 = 09;
+
     int end = arr.size() - 1;
     int numElements = b;
     int n = end;
